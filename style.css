@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    text-align: center;
+    background: rgb(98, 98, 192);
+}
+
+main {
+    
+    display: inline-block;
+    margin-top: 2%;
+}
